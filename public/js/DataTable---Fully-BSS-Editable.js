@@ -1,0 +1,2 @@
+$(document).ready((function(){$(".mydatatable").DataTable({dom:"Bfrtip",buttons:["copy","csv","excel","pdf","print"],scrollY:300,scrollX:!0,autoWidth:!1,scrollCollapse:!0,paging:!1})}));
+//# sourceMappingURL=DataTable---Fully-BSS-Editable.js.map

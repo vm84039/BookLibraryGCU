@@ -1,0 +1,1 @@
+{"version":3,"file":"css/Bootstrap-DataTables.css","mappings":"AAAA,sBACE,gBACF,C","sources":["webpack:///./resources/css/Bootstrap-DataTables.css"],"sourcesContent":[".bootstrap_datatables {\r\n  min-height: 100vh;\r\n}\r\n\r\n"],"names":[],"sourceRoot":""}

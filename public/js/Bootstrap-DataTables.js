@@ -1,0 +1,2 @@
+(()=>{var a=[];a.push({bSortable:!1,aTargets:[4]}),$((function(){$("#example").dataTable({paging:!0,ordering:!0,info:!0,aaSorting:[],orderMulti:!0,aoColumnDefs:a})}))})();
+//# sourceMappingURL=Bootstrap-DataTables.js.map

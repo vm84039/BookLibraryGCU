@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'BookLibraryGCU'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C178BCBBB7AE4D81B9B0D2CABEC092B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93E8A407F88D4D43961BEDE2B6036749 }}
           package: .
